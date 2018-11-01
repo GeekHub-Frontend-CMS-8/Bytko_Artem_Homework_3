@@ -1,0 +1,42 @@
+body{
+	width: 840px;
+	margin: auto;
+}
+
+fieldset{
+	border: solid 1px grey;
+	margin: 20px 0px 0px 0px;
+
+}
+legend{
+	font-weight: bold;
+	
+}
+
+
+.small{
+	font-size: 13px;
+}
+
+ul{
+ list-style-type: none;
+ padding: 0px;
+ margin-bottom: 20px;
+}
+.first_part li{
+	padding-top: 20px;
+}
+.question, .coments{
+	display: block;
+	font-weight: bold;
+}
+span{
+	font-style: italic;
+}
+.third_part label{
+	font-weight: bold;
+	margin: 20px 0px 0px 0px;
+}
+button{
+	margin-top: 20px;
+}

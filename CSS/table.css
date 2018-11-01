@@ -1,0 +1,38 @@
+table{
+	margin-bottom: 20px;
+	border-left: solid 1px #808080;
+	border-top: solid 1px #808080;
+	border-bottom: solid 1px #000000;
+	border-right: solid 1px #000000;
+}
+th, td{
+	border-right: solid 1px #808080;
+	border-bottom: solid 1px #808080;
+	border-top: solid 1px #000000;
+	border-left: solid 1px #000000;	
+}
+.first {
+	width: 100%;
+}
+
+.second {
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+.bold{
+	font-weight: bold;
+}
+.third {
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+border-collapse: separate;
+border-spacing: 0px; 
+}
+
+
+.third th, td{
+	text-align: left;
+	border:solid 1px #808080;
+}
